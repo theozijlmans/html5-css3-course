@@ -6,6 +6,8 @@ body {
 
 .jumbotron {
     text-align: center;
+    background-image: url('../images/hero_image.jpg');
+	color: white;
 }
 
 ul.nav, .jumbotron h1 {
